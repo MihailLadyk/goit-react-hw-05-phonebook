@@ -1,0 +1,13 @@
+.text {
+    font-family: 'DotGothic16', sans-serif;
+    color: rgb(7, 0, 0)
+}
+
+
+.notify {
+    width: 160px;
+    height: 100px;
+    background-color: rgb(105, 13, 13);
+    padding-left: 10px;
+    padding-top: 10px;
+}
